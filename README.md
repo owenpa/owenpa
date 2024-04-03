@@ -1,5 +1,6 @@
 ## Here's a list of products I have created or have been a key part of in no particular order (there's an order)
 - [Brizo - /oslabs-beta/Brizo](https://github.com/oslabs-beta/Brizo)
+- [Prae Gallery - /owenpa/prae-gallery](https://github.com/owenpa/prae-gallery)
 - [Study With Me - /PFA-Crew/Study-With-Me](https://github.com/PFA-Crew/Study-With-Me)
 - [Trendy - /stabbit/trendy](https://github.com/stabbit/trendy)
 - [My Portfolio - owenhill.dev](https://owenhill.dev/)
@@ -24,5 +25,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://komarev.com/ghpvc/?username=owenpa&abbreviated=true&color=grey&style=for-the-badge&label=VISITS">
 </div>
