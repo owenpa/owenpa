@@ -1,1 +1,34 @@
-![Metrics](https://metrics.lecoq.io/owenpa?template=classic&isocalendar=1&languages=1&lines=1&achievements=1&notable=1&activity=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=0&lines.history.limit=10&lines.delay=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&config.timezone=America%2FChicago)
+<p align="center">Hi 👋, I'm <b>Owen</b>!</p>
+<p align="center">A computer nerd who's also into cars and motorcycles, <br/>weightlifting,  finance shenanigans,  competitive gaming, and anime</p>
+
+Here's a list of products I have created or have been a key part of in no particular order (there's an order)
+- [Brizo - /oslabs-beta/Brizo](https://github.com/oslabs-beta/Brizo)
+- [Prae Gallery - /owenpa/prae-gallery](https://github.com/owenpa/prae-gallery)
+- [Study With Me - /PFA-Crew/Study-With-Me](https://github.com/PFA-Crew/Study-With-Me)
+- [Trendy - /stabbit/trendy](https://github.com/stabbit/trendy)
+  
+<details>
+  <summary>Current Personal Tech & Tools</summary>
+  <div style="display: flex; gap: 25px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <br/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <br/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </div>
+</details>
+
+> [!IMPORTANT]
+> I am mainly accessible via GitHub (Hi!) and [LinkedIn](https://www.linkedin.com/in/owenghill/), but other  
+> media like e-mail, Slack, and Discord are available upon request.
+
+> [!CAUTION]
+> This user spends too much time reading documentation.
+
+<sub style="font-size:0.5px;">How hard is it to make your own distro? ... asking for a friend..</sub>
